@@ -4,7 +4,7 @@
 
 
     
-![png](images/plane1.png)
+![png](images/plane.png)
     
 
 
