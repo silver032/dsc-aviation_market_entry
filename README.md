@@ -4,7 +4,7 @@
 
 
     
-![png](images/aviation_market_entry_analysis_1_0.png)
+![png](images/plane1.png)
     
 
 
@@ -18,7 +18,7 @@ This project analyses an aviation accident dataset from the National Transportat
 
 
     
-![png](images/aviation_market_entry_analysis_5_0.png)
+![png](images/plane2.png)
     
 
 
@@ -29,7 +29,7 @@ Analyzing the data contaimed in this dataset can allow us understand what are th
 
 
     
-![png](images/aviation_market_entry_analysis_8_0.png)
+![png](images/plane_destroyed.png)
     
 
 
@@ -45,7 +45,7 @@ Our initial analysis finds that the quantity that best correlates with passenger
 
 
     
-![png](images/aviation_market_entry_analysis_38_0.png)
+![png](images/corr.png)
     
 
 
@@ -71,7 +71,7 @@ First let us start counting the number of accidents each company has since 2000,
 
 
     
-![png](images/aviation_market_entry_analysis_55_0.png)
+![png](images/bargraph.png)
     
 
 
@@ -80,7 +80,7 @@ First let us start counting the number of accidents each company has since 2000,
 Now we work on the time series of makes who made the cut
 
 
-![png](images/aviation_market_entry_analysis_65_0.png)
+![png](images/timeseries.png)
     
 
 
