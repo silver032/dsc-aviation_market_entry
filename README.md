@@ -45,7 +45,7 @@ Our initial analysis finds that the quantity that best correlates with passenger
 
 
     
-![png](images/corr.png)
+![png](images/corr1.png)
     
 
 
@@ -71,7 +71,7 @@ First let us start counting the number of accidents each company has since 2000,
 
 
     
-![png](images/bargraph.png)
+![png](images/bargraph1.png)
     
 
 
@@ -80,7 +80,7 @@ First let us start counting the number of accidents each company has since 2000,
 Now we work on the time series of makes who made the cut
 
 
-![png](images/timeseries.png)
+![png](images/timeseries1.png)
     
 
 
